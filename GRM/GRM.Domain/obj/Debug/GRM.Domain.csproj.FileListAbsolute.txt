@@ -1,0 +1,6 @@
+C:\Users\karok\documents\visual studio 2015\Projects\GRM\GRM.Domain\bin\Debug\GRM.Domain.dll
+C:\Users\karok\documents\visual studio 2015\Projects\GRM\GRM.Domain\bin\Debug\GRM.Domain.pdb
+C:\Users\karok\documents\visual studio 2015\Projects\GRM\GRM.Domain\obj\Debug\GRM.Domain.dll
+C:\Users\karok\documents\visual studio 2015\Projects\GRM\GRM.Domain\obj\Debug\GRM.Domain.pdb
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain\bin\Debug\Data\MusicContracts.txt
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain\bin\Debug\Data\DistributionPartnerContracts.txt

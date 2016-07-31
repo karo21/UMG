@@ -1,0 +1,10 @@
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\bin\Debug\Data\MusicContracts.txt
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\bin\Debug\Data\DistributionPartnerContracts.txt
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\bin\Debug\GRM.Domain.UnitTest.dll
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\bin\Debug\GRM.Domain.UnitTest.pdb
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\bin\Debug\GRM.Domain.dll
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\bin\Debug\GRM.Domain.pdb
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\obj\Debug\GRM.Domain.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\obj\Debug\GRM.Domain.UnitTest.dll
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM.Domain.UnitTest\obj\Debug\GRM.Domain.UnitTest.pdb

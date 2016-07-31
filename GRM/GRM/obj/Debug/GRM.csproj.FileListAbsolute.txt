@@ -1,0 +1,10 @@
+c:\users\karok\documents\visual studio 2015\Projects\GRM\GRM\bin\Debug\GRM.exe.config
+c:\users\karok\documents\visual studio 2015\Projects\GRM\GRM\bin\Debug\GRM.exe
+c:\users\karok\documents\visual studio 2015\Projects\GRM\GRM\bin\Debug\GRM.pdb
+c:\users\karok\documents\visual studio 2015\Projects\GRM\GRM\obj\Debug\GRM.csprojResolveAssemblyReference.cache
+c:\users\karok\documents\visual studio 2015\Projects\GRM\GRM\obj\Debug\GRM.exe
+c:\users\karok\documents\visual studio 2015\Projects\GRM\GRM\obj\Debug\GRM.pdb
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM\bin\Debug\GRM.Domain.dll
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM\bin\Debug\GRM.Domain.pdb
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM\bin\Debug\Data\MusicContracts.txt
+C:\Users\karok\Documents\Visual Studio 2015\Projects\GRM\GRM\bin\Debug\Data\DistributionPartnerContracts.txt
