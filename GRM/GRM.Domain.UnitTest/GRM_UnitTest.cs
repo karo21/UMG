@@ -93,5 +93,18 @@ namespace GRM.Domain.UnitTest
             List<DistPartnerContractModel> accessiblePrivateField = (List<DistPartnerContractModel>)accessor.GetField("_distributionPartnerContracts");
             Assert.IsTrue(accessiblePrivateField.Any(), "DistributionPartnerContracts data is empty");
         }
+
+        [TestMethod]
+        [Description("Domain_DistPartnerContractManager_GetPartner_by_Name")]
+        [TestCategory("DistPartnerContractManager")]
+        public void DistPartnerContractManager_GetPartner_by_Name()
+        {
+            string partnerName = "ITunes";
+            var partner = _distPartnerContractManager.GetPartner(partnerName);
+            Assert.AreEqual(partnerName, partner.Partner, "partner name is wrong ");
+
+
+           
+        }
     }
 }
